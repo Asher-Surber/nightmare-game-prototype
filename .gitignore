@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-nightmare_game_prototype/[Ll]ibrary
-nightmare_game_prototype/[Tt]emp
-nightmare_game_prototype/[Oo]bj
-nightmare_game_prototype/[Bb]uild
-nightmare_game_prototype/[Bb]uilds
-nightmare_game_prototype/[Ll]ogs
-nightmare_game_prototype/[Mm]emoryCaptures
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
